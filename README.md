@@ -1,5 +1,9 @@
 # Motion Tracker VR Application
 
+<p align="center">
+  <img src="3d_scatter_animation.gif" alt="3D Scatter Animation" />
+</p>
+
 This project is a VR-based motion tracking system designed for experiments involving human motion data collection. The application is built using Unity and the XR Interaction Toolkit and is compatible with the Meta Quest 3 headset.  
 
 ## Features
@@ -25,5 +29,3 @@ This project is a VR-based motion tracking system designed for experiments invol
 4. Build and run the project to deploy it to your device.
 5. (Optional) run the ./Visualization/visualize.ipynb to visualize motion data as 3D videos.
 
-   
-   
